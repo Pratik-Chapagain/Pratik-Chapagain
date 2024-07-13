@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: Linked-In:[www.linkedin.com/in/pratik-chapagain-3272482a1]
 - Instagram:https://www.instagram.com/_pratik20/
+- Gmail: ChapagainPratik28@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ I love watching sports
 
