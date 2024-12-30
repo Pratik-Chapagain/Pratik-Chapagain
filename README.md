@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding" /> </p>
 
-
-
 - 🔭 I’m currently working on **Easy-Notes**
 
 - 🌱 I’m currently learning **the art of telling stories through visually stunning web designs**
@@ -21,12 +19,12 @@
 
 - ⚡ Fun fact **When I'm not writing code, I'm either hitting sixes on the cricket field or cheering for my favorite teams. Coding bugs and cricket balls have one thing in common—I love knocking them out of the park!**
 
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pratik chapagain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik chapagain" height="30" width="40" /></a>
-<a href="https://fb.com/pratik chapagain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratik chapagain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratik chapagain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik chapagain" height="30" width="40" /></a>
+<a href="https://fb.com/pratik chapagain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratik chapagain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-chapagain&show_icons=true&locale=en&theme=radical" alt="pratik-chapagain" /></p>
 
-
+---
 
 <h3 align="left">About Me:</h3>
 <ul>
